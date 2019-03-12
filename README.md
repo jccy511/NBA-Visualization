@@ -14,7 +14,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 * __NBA states API__
 
 ## Demo 
-![](https://github.com/Liang200/NBA-Data-Visualization/blob/master/demo/demo.gif)
+![image](demo1.gif)
 
 ## Available Scripts
 
