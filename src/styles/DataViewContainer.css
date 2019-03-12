@@ -1,0 +1,17 @@
+.data-view {
+    flex : 1;
+}
+
+.shot-chart {
+    margin-top: 0;
+}
+
+
+.count {
+    margin-top: 10px;
+    height: 5%;
+}
+
+.button {
+    margin-bottom: 30px;
+}
